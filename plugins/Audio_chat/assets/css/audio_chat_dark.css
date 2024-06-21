@@ -1,0 +1,17 @@
+.btn-data{
+    background: #1c1f26;
+}
+.btn-data button{
+    color: white;
+}
+
+.btn-data select{
+    background-color: #1c1f26 !important;
+    color: #fff !important;
+}
+.comment_list:hover {
+    background-color:#1C1F26;
+}
+.comment_list_highlight {
+    background-color: #1C1F26;
+}
